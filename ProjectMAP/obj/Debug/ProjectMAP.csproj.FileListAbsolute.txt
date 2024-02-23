@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\ProjectMAP.dll.config
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\ProjectMAP.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\ProjectMAP.pdb
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\ProjectENTITIES.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\ProjectENTITIES.pdb
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\obj\Debug\ProjectMAP.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\obj\Debug\ProjectMAP.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\obj\Debug\ProjectMAP.csproj.Up2Date
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\obj\Debug\ProjectMAP.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectMAP\obj\Debug\ProjectMAP.pdb

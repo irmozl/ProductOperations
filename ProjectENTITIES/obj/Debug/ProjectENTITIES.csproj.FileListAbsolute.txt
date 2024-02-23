@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\ProjectNTier\ProjectENTITIES\bin\Debug\ProjectENTITIES.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectENTITIES\bin\Debug\ProjectENTITIES.pdb
+C:\Users\asus\source\repos\ProjectNTier\ProjectENTITIES\obj\Debug\ProjectENTITIES.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProjectNTier\ProjectENTITIES\obj\Debug\ProjectENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProjectNTier\ProjectENTITIES\obj\Debug\ProjectENTITIES.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectENTITIES\obj\Debug\ProjectENTITIES.pdb

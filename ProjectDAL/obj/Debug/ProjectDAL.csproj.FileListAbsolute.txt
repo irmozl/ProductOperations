@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\ProjectDAL.dll.config
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\ProjectDAL.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\ProjectDAL.pdb
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\ProjectENTITIES.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\ProjectMAP.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\ProjectENTITIES.pdb
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\ProjectMAP.pdb
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\ProjectMAP.dll.config
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\obj\Debug\ProjectDAL.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\obj\Debug\ProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\obj\Debug\ProjectDAL.csproj.Up2Date
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\obj\Debug\ProjectDAL.dll
+C:\Users\asus\source\repos\ProjectNTier\ProjectDAL\obj\Debug\ProjectDAL.pdb
